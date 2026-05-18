@@ -2,9 +2,6 @@
 
 **A decentralized compute currency protocol. A post-bubble solution for AI monetization crisis via tokenized compute as AI-native online payment.**
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Discussions](https://img.shields.io/badge/Discussions-Welcome-blue)](https://github.com/LongJviii/TAIM/discussions)
-
 ---
 
 ## 📖 Whitepapers
@@ -46,11 +43,6 @@ In 2026, the AI industry burns **over $700 billion annually** on compute infrast
 
 Speculator exits summon user entries; user consumption paves the way for speculator returns. Nearly inexhaustible liquidity.
 
----
-
-## 💬 Join the Discussion
-
-Have thoughts, questions, or want to build it? Head over to [GitHub Discussions](https://github.com/LongJviii/TAIM/discussions).
 
 ---
 
