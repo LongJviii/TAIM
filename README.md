@@ -45,6 +45,11 @@ Speculator exits summon user entries; user consumption paves the way for specula
 
 
 ---
+## 💬 Join the Discussion
+
+Have thoughts, questions, or want to build it? Head over to [GitHub Discussions](https://github.com/LongJviii/TAIM/discussions).
+
+---
 
 ## ⭐ Star This
 
